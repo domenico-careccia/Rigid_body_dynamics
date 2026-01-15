@@ -37,10 +37,10 @@ $$
 $$
 
 where:
-- $(\mathbf{x} = [x, y, z]^T \)$ is the position of the center of mass
-- $(\mathbf{v} = [u, v, w]^T \)$ is the velocity of the center of mass
-- $( \mathbf{q} = [q_0, q_1, q_2, q_3]^T \)$ is the unit quaternion representing the orientation of the body
-- $( \boldsymbol{\omega} = [\omega_x, \omega_y, \omega_z]^T \)$ is the angular velocity vector in the body-fixed frame
+- $\mathbf{x} = [x, y, z]^T$ is the position of the center of mass
+- $\mathbf{v} = [u, v, w]^T$ is the velocity of the center of mass
+- $\mathbf{q} = [q_0, q_1, q_2, q_3]^T$ is the unit quaternion representing the orientation of the body
+- $\boldsymbol{\omega} = [\omega_x, \omega_y, \omega_z]^T$ is the angular velocity vector in the body-fixed frame
 
 ---
 
